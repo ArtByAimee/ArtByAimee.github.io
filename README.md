@@ -290,7 +290,7 @@
       <div class="pricing-grid">
         <div class="price-card">
           <p class="size">A5</p>
-          <p class="amount">£60</p>
+          <p class="amount">£70</p>
           <p class="desc">1 pet · pastel on paper</p>
         </div>
         <div class="price-card">
