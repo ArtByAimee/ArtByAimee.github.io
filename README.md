@@ -262,11 +262,9 @@
     <div class="section">
       <h2 class="section-title">Examples</h2>
       <div class="gallery-grid">
-        <div class="gallery-card">
-          <!-- Paw icon -->
-          <svg viewBox="0 0 24 24"><circle cx="7" cy="6" r="1.5"/><circle cx="12" cy="4" r="1.5"/><circle cx="17" cy="6" r="1.5"/><circle cx="4.5" cy="10.5" r="1.5"/><path d="M12 22c-3.5 0-6-2-6-5s2-4 6-4 6 1 6 4-2.5 5-6 5z"/></svg>
-          <span>Dog portrait</span>
-        </div>
+      <div class="gallery-card image-card">
+  <img src="Images/testimg.jpg" alt="Dog portrait">
+</div>
         <div class="gallery-card">
           <svg viewBox="0 0 24 24"><circle cx="7" cy="6" r="1.5"/><circle cx="12" cy="4" r="1.5"/><circle cx="17" cy="6" r="1.5"/><circle cx="4.5" cy="10.5" r="1.5"/><path d="M12 22c-3.5 0-6-2-6-5s2-4 6-4 6 1 6 4-2.5 5-6 5z"/></svg>
           <span>Cat portrait</span>
